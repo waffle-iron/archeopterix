@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/brice-aiello/archeopterix.png?label=ready&title=Ready)](https://waffle.io/brice-aiello/archeopterix?utm_source=badge)
 Archeopterix
 ============
 
